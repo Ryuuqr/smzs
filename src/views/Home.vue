@@ -34,13 +34,13 @@
   <div class="vr-top-title">VR看园</div>
   <div class="vr-box">
     <div class="container">
-      <a href="about:blank" target="_blank"><img class="vr-img" src="../assets/img/smjj.png"></a>
+      <a href="https://f56m934t1tv.720yun.com/t/63vkbb19g1e?scene_id=97889170" target="_blank"><img class="vr-img" src="../assets/img/smjj.png"></a>
         <div class="vr-img-title-top">三明经济</div>
         <div class="vr-img-title">开发区</div>
         <div><img class="zxj-img" src="../assets/img/zxj.png"></div>
     </div>
     <div class="container">
-      <a href="about:blank" target="_blank"><img class="vr-img" src="../assets/img/smst.png"></a>
+      <a href="https://f56m934t1tv.720yun.com/t/0cvkbbiqzd7?scene_id=97584120" target="_blank"><img class="vr-img" src="../assets/img/smst.png"></a>
         <div class="vr-img-title-top">三明生态</div>
         <div class="vr-img-title">工贸区</div>
         <div><img class="zxj-img" src="../assets/img/zxj.png"></div>
@@ -52,7 +52,7 @@
         <div><img class="zxj-img" src="../assets/img/zxj.png"></div>
     </div>
     <div class="container">
-      <a href="about:blank" target="_blank"><img class="vr-img" src="../assets/img/smgxjs.png"></a>
+      <a href="https://f56m934t1tv.720yun.com/t/33vkbbiqgp9?scene_id=97584472" target="_blank"><img class="vr-img" src="../assets/img/smgxjs.png"></a>
         <div class="vr-img-title-top">三明高新技术</div>
         <div class="vr-img-title">产业开发区</div>
         <div><img class="zxj-img" src="../assets/img/zxj.png"></div>
@@ -132,10 +132,11 @@
   font-size: 1.06667rem;
 }  
 
+
 .top-img { 
   width: 9.17333rem;
-  height: 4.74667rem;
-  border-radius: .13333rem;
+    height: 4.74667rem;
+    border-radius: .13333rem;
 }
 
 .zsdt {

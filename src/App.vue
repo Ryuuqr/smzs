@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <Gxzdcy/>
-
+    <home/>
   </div>
 </template>
 
@@ -52,7 +51,19 @@
   import Dzdcy from '../src/views/zdcy/cytx/Dzdcy.vue'
   import TwoMainTabBar from '../src/views/zdcy/cytx/cybj/TwoMainTabBar.vue'
   import Wstz from '../src/views/Wstz.vue'
-  import Gxzdcy from '../src/views/zdcy/Gxzdcy.vue'
+  import Gxzdcy from '../src/views/zdcy/gxzdcy/Gxzdcy.vue'
+  import Gxzdcysyq from '../src/views/zdcy/gxzdcy/Gxzdcysyq.vue'
+  import Gxzdcyyas from '../src/views/zdcy/gxzdcy/Gxzdcyyas.vue'
+  import Gxzdcysxq from '../src/views/zdcy/gxzdcy/Gxzdcysxq.vue'
+  import Gxzdcymxx from '../src/views/zdcy/gxzdcy/Gxzdcymxx.vue'
+  import Gxzdcyqlx from '../src/views/zdcy/gxzdcy/Gxzdcyqlx.vue'
+  import Gxzdcyjnx from '../src/views/zdcy/gxzdcy/Gxzdcyjnx.vue'
+  import Gxzdcynhx from '../src/views/zdcy/gxzdcy/Gxzdcynhx.vue'
+  import Gxzdcytnx from '../src/views/zdcy/gxzdcy/Gxzdcytnx.vue'
+  import Gxzdcyjlx from '../src/views/zdcy/gxzdcy/Gxzdcyjlx.vue'
+  import Gxzdcyyxx from '../src/views/zdcy/gxzdcy/Gxzdcyyxx.vue'
+  import Gxzdcydtx from '../src/views/zdcy/gxzdcy/Gxzdcydtx.vue'
+
 
 export default {
   name: 'App',
@@ -102,7 +113,18 @@ export default {
     Dzdcy,
     TwoMainTabBar,
     Wstz,
-    Gxzdcy
+    Gxzdcy,
+    Gxzdcysyq,
+    Gxzdcyyas,
+    Gxzdcysxq,
+    Gxzdcymxx,
+    Gxzdcyqlx,
+    Gxzdcyjnx,
+    Gxzdcynhx,
+    Gxzdcytnx,
+    Gxzdcyjlx,
+    Gxzdcyyxx,
+    Gxzdcydtx
   }
 }
 </script>
