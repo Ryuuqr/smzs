@@ -1,6 +1,6 @@
 <template>
-  
 <div class="box">
+    <MainTabBar class="bg"></MainTabBar>
     <div class="top">钢铁</div>
     <div class="box-box">
     <div class="text-box">
@@ -28,10 +28,13 @@
 </template>
 
 <script>
+import MainTabBar from '../cytx/MainTabBar.vue'
 
   export default {
     name: 'Dzdcy',
-    
+    components: {
+      MainTabBar,
+    },
   }
 </script>
 
@@ -44,11 +47,14 @@ div {
     display: block;
 }
 
+.bg {
+        background: #fff;
+        margin-top: -0.4rem;
+}
+
 .box {
     margin-top: .4rem;
-    height: calc(100vh - 2.05333rem);
     overflow: scroll;
-    padding: 0 .4rem;
 }
 
 .top {
@@ -70,6 +76,7 @@ div {
     color: #101a33;
     line-height: .74667rem;
     margin-bottom: -0.4rem;
+    padding: 0 .4rem;
 }
 
 .title-box {

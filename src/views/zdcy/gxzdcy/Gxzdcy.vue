@@ -1,21 +1,21 @@
 <template>
 <div class="box">
     <div class="img-box">
-        <div class="text"><img class="img" src="../../../assets/img/zdcysyq.png"><div class="name">三元区</div></div>
-        <div class="text"><img class="img" src="../../../assets/img/zdcyyas.png"><div class="name">沙县区</div></div>
-        <div class="text"><img class="img" src="../../../assets/img/zdcysxq.png"><div class="name">永安市</div></div>
-        <div class="text"><img class="img" src="../../../assets/img/zdcymxx.png"><div class="name">明溪县</div></div>
+        <router-link to='/gxzdcysyq' style="text-decoration:none" class="text"><img class="img" src="../../../assets/img/zdcysyq.png"><div class="name">三元区</div></router-link>
+        <router-link to='/gxzdcyyas' style="text-decoration:none" class="text"><img class="img" src="../../../assets/img/zdcyyas.png"><div class="name">永安市</div></router-link>
+        <router-link to='/gxzdcysxq' style="text-decoration:none" class="text"><img class="img" src="../../../assets/img/zdcysxq.png"><div class="name">沙县区</div></router-link>
+        <router-link to='/gxzdcymxx' style="text-decoration:none" class="text"><img class="img" src="../../../assets/img/zdcymxx.png"><div class="name">明溪县</div></router-link>
     </div>
     <div class="img-box">
-        <div class="text"><img class="img" src="../../../assets/img/zdcyqlx.png"><div class="name">清流县</div></div>
-        <div class="text"><img class="img" src="../../../assets/img/zdcyjnx.png"><div class="name">建宁县</div></div>
-        <div class="text"><img class="img" src="../../../assets/img/zdcynhx.png"><div class="name">宁化县</div></div>
-        <div class="text"><img class="img" src="../../../assets/img/zdcytnx.png"><div class="name">泰宁县</div></div>
+        <router-link to='/gxzdcyqlx' style="text-decoration:none" class="text"><img class="img" src="../../../assets/img/zdcyqlx.png"><div class="name">清流县</div></router-link>
+        <router-link to='/gxzdcyjnx' style="text-decoration:none" class="text"><img class="img" src="../../../assets/img/zdcyjnx.png"><div class="name">建宁县</div></router-link>
+        <router-link to='/gxzdcynhx' style="text-decoration:none" class="text"><img class="img" src="../../../assets/img/zdcynhx.png"><div class="name">宁化县</div></router-link>
+        <router-link to='/gxzdcytnx' style="text-decoration:none" class="text"><img class="img" src="../../../assets/img/zdcytnx.png"><div class="name">泰宁县</div></router-link>
     </div>
     <div class="img-box">
-        <div class="text"><img class="img" src="../../../assets/img/zdcyjlx.png"><div class="name">将乐县</div></div>
-        <div class="text"><img class="img" src="../../../assets/img/zdcyyxx.png"><div class="name">尤溪县</div></div>
-        <div class="text"><img class="img" src="../../../assets/img/zdcydtx.png"><div class="name">大田县</div></div>
+        <router-link to='/gxzdcyjlx' style="text-decoration:none" class="text"><img class="img" src="../../../assets/img/zdcyjlx.png"><div class="name">将乐县</div></router-link>
+        <router-link to='/gxzdcyyxx' style="text-decoration:none" class="text"><img class="img" src="../../../assets/img/zdcyyxx.png"><div class="name">尤溪县</div></router-link>
+        <router-link to='/gxzdcydtx' style="text-decoration:none" class="text"><img class="img" src="../../../assets/img/zdcydtx.png"><div class="name">大田县</div></router-link>
         <div class="text"><img class="img" src="../../../assets/img/baise.jpg"></div>
     </div>
 </div>
@@ -23,7 +23,7 @@
 
 <script>
   export default {
-    name: 'Gxzdcy'
+    name: 'Gxzdcy',
   }
 </script>
 

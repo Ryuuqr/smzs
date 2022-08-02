@@ -1,7 +1,6 @@
 <template>
 <div class="box">
-    <div class="router">
-    </div>
+    <TwoMianTabBar/>
     <div class="cyqk-box">
         <div class="title-box">
         <div class="bottom-title"></div>
@@ -28,9 +27,15 @@
 </div>
 </template>
 
+
 <script>
+import TwoMianTabBar from '../cybj/TwoMainTabBar.vue'
+
   export default {
-    name: 'Gtyzb'
+    name: 'Gtyzb',
+    components: {
+            TwoMianTabBar
+        }
   }
 </script>
 

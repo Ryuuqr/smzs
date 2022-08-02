@@ -1,5 +1,6 @@
 <template>
     <div class="box">
+        <MainTabBar/>
         <div class="top">数字信息产业</div>
         <div class="box-box">
         <div class="text-box">
@@ -15,8 +16,13 @@
 </template>
 
 <script>
+  import MainTabBar from '../cytx/MainTabBar.vue'
+
   export default {
-    name: 'Zdpy'
+    name: 'Zdpy',
+    components: {
+      MainTabBar,
+    },
   }
 </script>
 

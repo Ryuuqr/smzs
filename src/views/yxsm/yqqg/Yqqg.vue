@@ -1,19 +1,19 @@
 <template>
 <div class="yqqg-box">
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/smjjkfq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/smstgmq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/syjjkfq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/smgxjscykfq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/smplqcgyyq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/yasngjjkfq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/mxjjkfq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/qljjkfq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/nhhqjjkfq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/jnjjkfq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/tngyyq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/jljjkfq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/yxjjkfq.png"></div>
-  <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/dtjjkfq.png"></div>
+  <router-link to='/smjjkfq'><div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/smjjkfq1.png"></div></router-link>
+  <router-link to='/smstgmq'><div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/smstgmq1.png"></div></router-link>
+  <router-link to='/syjjkfq'><div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/syjjkfq1.png"></div></router-link>
+  <router-link to='/smgxjscykfq'><div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/smgxjjcykfq1.png"></div></router-link>
+  <router-link to='/smplqcgyyq'> <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/smplqcgyyq1.png"></div></router-link>
+  <router-link to='/yasngjjkfq'> <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/yasngjjkfq1.png"></div></router-link>
+  <router-link to='/mxjjkfq'> <div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/mxjjkfq1.png"></div></router-link>
+  <router-link to='/qljjkfq'><div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/qljjkfq1.png"></div></router-link>
+  <router-link to='/nhhqjjkfq'><div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/nhhqjjkfq1.png"></div></router-link>
+  <router-link to='/jnxjjkfq'><div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/jnjjkfq1.png"></div></router-link>
+  <router-link to='/tnjjkfq'><div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/tngyyq1.png"></div></router-link>
+  <router-link to='/jljjkfq'><div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/jljjkfq1.png"></div></router-link>
+  <router-link to='/yxjjkfq'><div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/yxjjkfq1.png"></div></router-link>
+  <router-link to='/dtjjkfq'><div class="yqqg-img-box"><img class="yqqg-img" src="../../../assets/img/dtjjkfq1.png"></div></router-link>
 </div>
 </template>
 

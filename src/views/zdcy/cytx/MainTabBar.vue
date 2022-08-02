@@ -3,13 +3,12 @@
         <tab-bar-item path="/dzdcy">
         <div slot="item-text">4大主导产业</div>
         </tab-bar-item>
-
         <tab-bar-item path="/zdcy">
         <div slot="item-text">3大重点产业</div>
         </tab-bar-item>
         <tab-bar-item path="/zdpy">
         <div slot="item-text">3大重点培育</div>
-        </tab-bar-item>      
+        </tab-bar-item> 
       </tab-bar>
 </template>
 

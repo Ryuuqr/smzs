@@ -44,14 +44,13 @@
 <script>
   import TwoTabBar from '../cybj/tabbar/TwoTabBar.vue'
   import TwoTabBarItem from '../cybj/tabbar/TwoTabBarItem.vue'
-  import Gtyzb from '../cybj/Gtyzb.vue'
+
   
   export default {
     name: 'TwoMainTabBar',
     components: {
       TwoTabBar,
       TwoTabBarItem,
-      Gtyzb
     }
   }
 </script>

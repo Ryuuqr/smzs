@@ -1,29 +1,37 @@
 <template>
 <div class="yxsm-box">
-  <div class="container">
+  <router-link to='/smgk'>
+    <div class="container">
     <img class="yxsm-img" src="../../assets/img/smgk.png">
       <div class="yxsm-title-bk">
         <div class="yxsm-img-title">三明概况</div>
     </div>
   </div>
+</router-link>
+<router-link to='/csztgh'>
   <div class="container">
-    <img class="yxsm-img" src="../../assets/img/csztgh.jpeg">
+  <img class="yxsm-img" src="../../assets/img/csztgh.jpeg">
     <div class="yxsm-title-bk">
       <div class="yxsm-img-title">城市总体规划</div>
   </div>
   </div>
+</router-link>
+<router-link to='/xyqk'>
   <div class="container">
-    <img class="yxsm-img" src="../../assets/img/xyqk.jpeg">
+  <img class="yxsm-img" src="../../assets/img/xyqk.jpeg">
     <div class="yxsm-title-bk">
       <div class="yxsm-img-title">县域情况</div>
     </div>
   </div>
+</router-link>
+<router-link to='/yqqg'>
   <div class="container">
     <img class="yxsm-img" src="../../assets/img/yqqk.jpeg">
     <div class="yxsm-title-bk">
       <div class="yxsm-img-title">园区情况</div>
   </div>
   </div>
+</router-link>
 </div>
 </template>
 
@@ -34,6 +42,7 @@
 </script>
 
 <style scoped>
+
 * {
   box-sizing: border-box;
 }
